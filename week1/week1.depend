@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1772761999 source:c:\users\student\desktop\1bf24s209_os_lab\week1\main.c
+
+1772762472 source:c:\users\student\desktop\1bf24s209_os_lab\week1\p2.c
+	<stdio.h>
+	<limits.h>
+
