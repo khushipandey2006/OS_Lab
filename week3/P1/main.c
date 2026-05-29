@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #define MAX 100
 
 int main() {
@@ -79,4 +79,3 @@ int main() {
     }
     return 0;
 }
-*/
